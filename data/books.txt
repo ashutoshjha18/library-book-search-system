@@ -1,0 +1,55 @@
+1984 | George Orwell 
+A Brief History of Time | Stephen Hawking
+A Game of Thrones | George R. R. Martin
+A Little Life | Hanya Yanagihara
+A Tale of Two Cities | Charles Dickens
+Algorithms to Live By | Brian Christian
+Animal Farm | George Orwell
+Artificial Intelligence: A Modern Approach | Stuart Russell
+Atomic Habits | James Clear
+Automate the Boring Stuff with Python | Al Sweigart
+Brave New World | Aldous Huxley
+Catch-22 | Joseph Heller
+Clean Architecture | Robert C. Martin
+Clean Code | Robert C. Martin
+Code Complete | Steve McConnell
+Computer Networking: A Top-Down Approach | James Kurose
+Crime and Punishment | Fyodor Dostoevsky
+Data Science | Wes McKinney
+Deep Learning | Ian Goodfellow
+Design Patterns | Erich Gamma
+Dune | Frank Herbert
+Educated | Tara Westover
+Effective Java | Joshua Bloch
+Eloquent JavaScript | Marijn Haverbeke
+Fahrenheit 451 | Ray Bradbury
+Frankenstein | Mary Shelley
+Good to Great | Jim Collins
+Gödel, Escher, Bach | Douglas Hofstadter
+Harry Potter and the Sorcerer's Stone | J.K. Rowling
+Head First Design Patterns | Eric Freeman
+How to Win Friends and Influence People | Dale Carnegie
+Introduction to Algorithms | Thomas H. Cormen
+Jane Eyre | Charlotte Brontë
+Java Concurrency in Practice | Brian Goetz
+Learning Python | Mark Lutz
+Lord of the Flies | William Golding
+Moby-Dick | Herman Melville
+Operating System Concepts | Abraham Silberschatz
+Outliers | Malcolm Gladwell
+Pride and Prejudice | Jane Austen
+Python Basics | Mark Lutz
+Python Crash Course | Eric Matthes
+Refactoring | Martin Fowler
+Sapiens: A Brief History of Humankind | Yuval Noah Harari
+Siddhartha | Hermann Hesse
+Structure and Interpretation of Computer Programs | Harold Abelson
+The Alchemist | Paulo Coelho
+The C Programming Language | Brian W. Kernighan
+The Catcher in the Rye | J.D. Salinger
+The Great Gatsby | F. Scott Fitzgerald
+The Hobbit | J.R.R. Tolkien
+The Lord of the Rings | J.R.R. Tolkien
+The Pragmatic Programmer | Andrew Hunt
+Thinking, Fast and Slow | Daniel Kahneman
+To Kill a Mockingbird | Harper Lee
