@@ -41,5 +41,4 @@ library-book_search_system/
 │   ├── book_manager.java       # Handles adding books, sorting, and UTF-8 file I/O
 │   └── search_utils.java       # Custom implementations of binary and linear search
 │
-├── README.md                   # Project documentation and setup instructions
-└── .gitignore                  # Ignores compiled .class files, build folders, and IDE configs
+├── README.md                   # Project documentation and setup instructions               
