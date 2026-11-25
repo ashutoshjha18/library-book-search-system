@@ -1,8 +1,8 @@
 # 🔗 Links :
 
-project report: https://drive.google.com/file/d/1vvUjhQxdUJxx2vn9ciWYNnKvfSSWcHKL/view?usp=drivesdk
+Project report: https://drive.google.com/file/d/1vvUjhQxdUJxx2vn9ciWYNnKvfSSWcHKL/view?usp=drivesdk
 
-project presentation: https://drive.google.com/file/d/1Je3jh04Czz1t7I_oHMqAKDWaYn-w2JWX/view?usp=drivesdk
+Project presentation: https://drive.google.com/file/d/1Je3jh04Czz1t7I_oHMqAKDWaYn-w2JWX/view?usp=drivesdk
 
 
 # 📚 Library Book Search System
