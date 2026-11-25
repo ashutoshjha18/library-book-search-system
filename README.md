@@ -1,3 +1,10 @@
+# LINKS :
+
+project report: https://drive.google.com/file/d/1vvUjhQxdUJxx2vn9ciWYNnKvfSSWcHKL/view?usp=drivesdk
+
+project presentation: https://drive.google.com/file/d/1Je3jh04Czz1t7I_oHMqAKDWaYn-w2JWX/view?usp=drivesdk
+
+
 # 📚 Library Book Search System
 
 A lightweight, console-based Library Management and Book Search System built in **Java**. Designed to demonstrate core Data Structures and Algorithms (DSA) in action, this application manages a persistent catalog of books, maintains sorted records automatically, and provides efficient lookup capabilities using **Binary Search** and **Linear Search**.
